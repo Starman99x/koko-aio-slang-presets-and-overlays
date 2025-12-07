@@ -1,8 +1,5 @@
 #reference "../../koko-aio-ng.slangp"
 
-bg_under = "../../textures/overlays/lynx.jpg"
-bg_over = "../../textures/overlays/lynx.jpg"
-
 GAMMA_OUT = "0.450000"
 
 IN_GLOW_POWER = "1.600000"
