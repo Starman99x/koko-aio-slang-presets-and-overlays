@@ -1,7 +1,4 @@
-#reference "../koko-aio-ng.slangp"
-
-bg_under = "../textures/overlays/lynx.jpg"
-bg_over = "../textures/overlays/lynx.jpg"
+#reference "../../koko-aio-ng.slangp"
 
 GAMMA_OUT = "0.450000"
 
